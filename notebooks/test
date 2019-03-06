@@ -6149,7 +6149,7 @@ datasets {
     }
     custom_stats {
       name: "MyStat"
-      num: 10.0
+      num: 12.0
     }
   }
   features {
@@ -6218,108 +6218,108 @@ datasets {
       mean: 52514.3608167
       std_dev: 42103.8081053
       min: 5.0
-      median: 40246.0
+      median: 40204.0
       max: 2856196.0
       histograms {
         buckets {
           low_value: 5.0
           high_value: 285624.1
-          sample_count: 678943.301473
+          sample_count: 679143.246506
         }
         buckets {
           low_value: 285624.1
           high_value: 571243.2
-          sample_count: 269.494351943
+          sample_count: 261.170973156
         }
         buckets {
           low_value: 571243.2
           high_value: 856862.3
-          sample_count: 106.450009228
+          sample_count: 261.170973156
         }
         buckets {
           low_value: 856862.3
           high_value: 1142481.4
-          sample_count: 106.450009228
+          sample_count: 865.065664567
         }
         buckets {
           low_value: 1142481.4
           high_value: 1428100.5
-          sample_count: 106.450009228
+          sample_count: 104.917313895
         }
         buckets {
           low_value: 1428100.5
           high_value: 1713719.6
-          sample_count: 106.450009228
+          sample_count: 104.917313895
         }
         buckets {
           low_value: 1713719.6
           high_value: 1999338.7
-          sample_count: 106.450009228
+          sample_count: 104.917313895
         }
         buckets {
           low_value: 1999338.7
           high_value: 2284957.8
-          sample_count: 1555.13886496
+          sample_count: 104.917313895
         }
         buckets {
           low_value: 2284957.8
           high_value: 2570576.9
-          sample_count: 270.907631825
+          sample_count: 104.917313895
         }
         buckets {
           low_value: 2570576.9
           high_value: 2856196.0
-          sample_count: 270.907631825
+          sample_count: 786.759313895
         }
       }
       histograms {
         buckets {
           low_value: 5.0
-          high_value: 12103.0
+          high_value: 12165.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 12103.0
-          high_value: 20362.0
+          low_value: 12165.0
+          high_value: 20286.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 20362.0
-          high_value: 27321.0
+          low_value: 20286.0
+          high_value: 27365.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 27321.0
-          high_value: 33659.0
+          low_value: 27365.0
+          high_value: 33704.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 33659.0
-          high_value: 40246.0
+          low_value: 33704.0
+          high_value: 40204.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 40246.0
-          high_value: 48643.0
+          low_value: 40204.0
+          high_value: 48456.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 48643.0
-          high_value: 63040.0
+          low_value: 48456.0
+          high_value: 62886.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 63040.0
-          high_value: 82251.0
+          low_value: 62886.0
+          high_value: 82641.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 82251.0
-          high_value: 109479.0
+          low_value: 82641.0
+          high_value: 109704.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 109479.0
+          low_value: 109704.0
           high_value: 2856196.0
           sample_count: 68184.2
         }
@@ -19856,108 +19856,108 @@ datasets {
       mean: 21463.7636623
       std_dev: 13536.4427586
       min: 1500.0
-      median: 18495.0
+      median: 18503.0
       max: 499500.0
       histograms {
         buckets {
           low_value: 1500.0
           high_value: 51300.0
-          sample_count: 666245.495585
+          sample_count: 665865.313712
         }
         buckets {
           low_value: 51300.0
           high_value: 101100.0
-          sample_count: 12239.8006671
+          sample_count: 13933.440046
         }
         buckets {
           low_value: 101100.0
           high_value: 150900.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 150900.0
           high_value: 200700.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 200700.0
           high_value: 250500.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 250500.0
           high_value: 300300.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 300300.0
           high_value: 350100.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 350100.0
           high_value: 399900.0
-          sample_count: 78.6669684621
+          sample_count: 102.930154506
         }
         buckets {
           low_value: 399900.0
           high_value: 449700.0
-          sample_count: 78.6669684621
+          sample_count: 398.981531864
         }
         buckets {
           low_value: 449700.0
           high_value: 499500.0
-          sample_count: 2806.03496846
+          sample_count: 1026.68378286
         }
       }
       histograms {
         buckets {
           low_value: 1500.0
-          high_value: 9200.0
+          high_value: 9222.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 9200.0
+          low_value: 9222.0
           high_value: 11998.0
           sample_count: 68184.2
         }
         buckets {
           low_value: 11998.0
-          high_value: 14199.0
+          high_value: 14273.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 14199.0
-          high_value: 16360.0
+          low_value: 14273.0
+          high_value: 16374.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 16360.0
-          high_value: 18495.0
+          low_value: 16374.0
+          high_value: 18503.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 18495.0
-          high_value: 21244.0
+          low_value: 18503.0
+          high_value: 21206.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 21244.0
-          high_value: 24988.0
+          low_value: 21206.0
+          high_value: 24995.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 24988.0
-          high_value: 29500.0
+          low_value: 24995.0
+          high_value: 29497.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 29500.0
-          high_value: 36300.0
+          low_value: 29497.0
+          high_value: 36000.0
           sample_count: 68184.2
         }
         buckets {
-          low_value: 36300.0
+          low_value: 36000.0
           high_value: 499500.0
           sample_count: 68184.2
         }
