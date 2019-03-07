@@ -6148,7 +6148,7 @@ datasets {
       }
     }
     custom_stats {
-      name: "MyStat"
+      name: "My dummy stat"
       num: 12.0
     }
   }
